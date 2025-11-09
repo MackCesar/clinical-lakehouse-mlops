@@ -1,0 +1,92 @@
+# =========================================
+# General
+# =========================================
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.swp
+*.bak
+.DS_Store
+.env
+.env.*
+*.local
+*.lock
+*.sqlite
+*.db
+
+# =========================================
+# Python / Notebooks
+# =========================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+notebooks/*checkpoint*.ipynb
+*.egg-info/
+.venv/
+venv/
+env/
+*.pkl
+*.joblib
+
+# =========================================
+# Data Files
+# =========================================
+/data/mimic_synthetic/*.csv
+/data/mimic_iv/*
+/data/raw/*
+/data/tmp/*
+/data/cache/*
+/data/**/*.parquet
+/data/**/*.delta
+/data/**/*.json
+!/data/mimic_synthetic/sample_*.csv
+
+# =========================================
+# Spark / Delta / Airflow
+# =========================================
+spark-warehouse/
+metastore_db/
+.derby/
+airflow/logs/
+airflow/dags/__pycache__/
+*.sparkStaging/
+*.crc
+
+# =========================================
+# MLflow / Models
+# =========================================
+mlruns/
+mlartifacts/
+models/**/artifacts/
+models/**/mlflow*
+mlflow.db
+*.onnx
+*.pbtxt
+
+# =========================================
+# Docker / Terraform / Cloud
+# =========================================
+*.tfstate
+*.tfstate.*
+*.terraform/
+terraform.tfvars
+*.pem
+*.key
+*.crt
+*.csr
+*.zip
+infra/docker/*.log
+infra/docker/.env
+
+# =========================================
+# Monitoring / Prometheus / Grafana
+# =========================================
+prometheus_data/
+grafana_data/
+
+# =========================================
+# VSCode / JetBrains
+# =========================================
+.vscode/
+.idea/
+*.iml
