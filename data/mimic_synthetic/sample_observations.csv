@@ -1,0 +1,20 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,8302-2,Body Height,55.3,cm,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,29463-7,Body Weight,4.7,kg,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,77606-2,Weight-for-length Per age and sex,48.1,%,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,86.6,%,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,9843-4,Head Occipital-frontal circumference,37.7,cm,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,8462-4,Diastolic Blood Pressure,91.0,mm[Hg],numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,8480-6,Systolic Blood Pressure,138.0,mm[Hg],numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,8867-4,Heart rate,80.0,/min,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,6.2,10*3/uL,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.4,10*6/uL,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,16.1,g/dL,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,36.1,%,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,787-2,MCV [Entitic volume] by Automated count,92.9,fL,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,785-6,MCH [Entitic mass] by Automated count,28.8,pg,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,786-4,MCHC [Mass/volume] by Automated count,33.3,g/dL,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,41.3,fL,numeric
+2025-06-04T06:19:47Z,5f6b422b-1b37-c5c2-4679-53158de78c1a,5f6b422b-1b37-c5c2-75fc-0b55cecc6fa3,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,232.4,10*3/uL,numeric
